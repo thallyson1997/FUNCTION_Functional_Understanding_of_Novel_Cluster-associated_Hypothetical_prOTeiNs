@@ -50,8 +50,8 @@ Anotador-Funcional-Proteico/
 ### 1. Clonar o repositório
 
 ```bash
-git clone https://github.com/thallyson1997/Anotador-Funcional-Proteico.git
-cd Anotador-Funcional-Proteico
+git clone https://github.com/thallyson1997/FUNCTION_Functional_Understanding_of_Novel_Cluster-associated_Hypothetical_prOTeiNs.git
+cd FUNCTION_Functional_Understanding_of_Novel_Cluster-associated_Hypothetical_prOTeiNs
 ```
 
 ### 2. Criar e ativar o ambiente virtual
