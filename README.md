@@ -77,7 +77,7 @@ venv\Scripts\activate.bat
 ### 3. Instalar as dependências
 
 ```bash
-pip install -r backend/requirements.txt
+pip install -r requirements.txt
 ```
 
 ---
