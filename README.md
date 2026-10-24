@@ -1,4 +1,5 @@
-# 🧬 Anotador Funcional Proteico
+# 🧬 FUNCTION - Functional Understanding of Novel Cluster-associated Hypothetical prOTeiNs
+## Anotador Funcional Proteico
 
 Aplicação web para **anotação funcional de proteínas hipotéticas** provenientes de clusters de biossíntese de metabólitos secundários (BGCs). A ferramenta consulta o **InterProScan (EBI)** contra múltiplos bancos de domínios (Pfam, SMART, PROSITE, PANTHER, Gene3D, SUPERFAMILY, CDD, HAMAP, entre outros) e apresenta os resultados em uma interface gráfica interativa, com cálculo de score de confiança, visualização de domínios e exportação dos resultados.
 
